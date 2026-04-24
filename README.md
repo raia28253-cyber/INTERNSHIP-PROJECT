@@ -36,8 +36,10 @@ SYSTEM.
 PROJECT10.PY:UNIQUE VISITOR 
 TRACKER.
 🖇️:https://www.programiz.com/online-compiler/6cfnL68ZGguc9
-
+.
+BY:ANUSHKA RAI
 🗞️ 
+
 
 🧾 Project Description
 This repository contains a collection of simple Python mini projects created for learning and practice. The projects focus on basic programming concepts such as lists, sets, dictionaries, loops, and input/output operations to build logical thinking and problem-solving skills.
@@ -46,6 +48,7 @@ To-Do List Manager, Expense Tracker, Contact Manager, Movie Recommendation Syste
 🎯 Purpose
 To strengthen Python fundamentals through small real-life based projects and improve coding logic step by step.
 👩‍💻 Project Info
-Created by Anushka Rai, BCA AIDA student, under the guidance of Akash Tiwari Sir.
+
+Created by ANUSHKA RAI, BCA AIDA,under the guidance of AKASH TIWARI SIR.
 💻 Language Used
 Python
