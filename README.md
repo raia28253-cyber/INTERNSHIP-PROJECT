@@ -52,5 +52,6 @@ To strengthen Python fundamentals through small real-life based projects and imp
 👩‍💻 Project Info
 
 Created by ANUSHKA RAI, BCA AIDA,under the guidance of AKASH TIWARI SIR.
-💻 Language Used
+
+💻 Language Used:
 Python
