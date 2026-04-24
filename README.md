@@ -10,3 +10,6 @@ MANAGER.
 PROJECT4.PY:MOVIE RECOMMENDATION 
 SYSTEM.
 🖇️:https://www.programiz.com/online-compiler/8puUMWdsGY3cm
+PROJECT5.PY:SHOPPING CART 
+SYSTEM.
+🖇️:https://www.programiz.com/online-compiler/8IiNrorIqbu4D
