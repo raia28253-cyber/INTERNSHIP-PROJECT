@@ -1,6 +1,7 @@
 # INTERNSHIP-PROJECT
 PROJECT1.PY:STUDENT MARKS ANALYZER.
 🖇️:https://www.programiz.com/online-compiler/2IiNre1YXbg8W
+
 PROJECT2.PY:EXPENSE TRACKER.
 🖇️:https://www.programiz.com/online-compiler/7LqfoXe5fSiUj
 
@@ -21,6 +22,7 @@ USING SETS:
 PROJECT6.PY:FRIEND SUGGESTION 
 SYSTEM.
 🖇️:https://www.programiz.com/online-compiler/8zELyM6Fp2vju
+
 PROJECT7.PY:UNIQUE WORD COUNTER.
 🖇️:https://www.programiz.com/online-compiler/4Hh2oSCw4L2DL
 
