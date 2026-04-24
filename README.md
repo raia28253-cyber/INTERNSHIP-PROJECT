@@ -23,3 +23,6 @@ PROJECT7.PY:UNIQUE WORD COUNTER.
 🖇️:https://www.programiz.com/online-compiler/4Hh2oSCw4L2DL
 PROJECT8.PY:COMMON INTEREST FINDER.
 🖇️:https://www.programiz.com/online-compiler/5RcDttMSICbIV
+PROJECT9.PY: INVENTORY MANAGEMENT 
+SYSTEM.
+🖇️:https://www.programiz.com/online-compiler/8rX9W3S8V4m1i
