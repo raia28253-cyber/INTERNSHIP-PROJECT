@@ -7,9 +7,11 @@ PROJECT2.PY:EXPENSE TRACKER.
 PROJECT3.PY:TO-DO-LIST
 MANAGER.
 🖇️:https://www.programiz.com/online-compiler/6bPB4gqu5xMo0
+
 PROJECT4.PY:MOVIE RECOMMENDATION 
 SYSTEM.
 🖇️:https://www.programiz.com/online-compiler/8puUMWdsGY3cm
+
 PROJECT5.PY:SHOPPING CART 
 SYSTEM.
 🖇️:https://www.programiz.com/online-compiler/8IiNrorIqbu4D
@@ -21,12 +23,14 @@ SYSTEM.
 🖇️:https://www.programiz.com/online-compiler/8zELyM6Fp2vju
 PROJECT7.PY:UNIQUE WORD COUNTER.
 🖇️:https://www.programiz.com/online-compiler/4Hh2oSCw4L2DL
+
 PROJECT8.PY:COMMON INTEREST FINDER.
 🖇️:https://www.programiz.com/online-compiler/5RcDttMSICbIV
 
 PROJECT9.PY: INVENTORY MANAGEMENT 
 SYSTEM.
 🖇️:https://www.programiz.com/online-compiler/8rX9W3S8V4m1i
+
 PROJECT10.PY:UNIQUE VISITOR 
 TRACKER.
 🖇️:https://www.programiz.com/online-compiler/6cfnL68ZGguc9
