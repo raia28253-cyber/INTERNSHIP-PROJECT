@@ -44,7 +44,7 @@ CREATED BY:ANUSHKA RAI
  
 
 🧾 Project Description
-This repository contains a collection of simple Python mini projects created for learning and practice. The projects focus on basic programming concepts such as lists, sets, dictionaries, loops, and input/output operations to build logical thinking and problem-solving skills.
+This repository contains a collection of simple Python mini projects created for learning and practice. The projects focus on basic programming concepts such as lists, sets,and input/output operations to build logical thinking and problem-solving skills.
 📌 Projects Included
 To-Do List Manager, Expense Tracker, Contact Manager, Movie Recommendation System, Shopping Cart System, and other beginner-level Python projects.
 🎯 Purpose
